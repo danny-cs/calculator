@@ -1,0 +1,28 @@
+header{
+	vertical-align: text-top;
+	color: white;
+	font-weight: 600;
+}
+
+body{
+	padding: 40px;
+	background-color: #7F7373;
+}
+
+footer{
+	vertical-align: text-bottom;
+	color: white;
+	font-weight: 600;
+}
+
+.btn{
+	margin-top: 30px;
+}
+
+#timesTable > tbody > tr > td > p{
+}
+
+table {
+	margin-top: 30px;
+}
+
